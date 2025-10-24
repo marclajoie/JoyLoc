@@ -1,0 +1,21 @@
+{
+  "short_name": "Joy Loc",
+  "name": "Joy Localisateur",
+  "description": "Une application qui suit en permanence votre position et affiche le nom de la ville dans laquelle vous vous trouvez actuellement.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}

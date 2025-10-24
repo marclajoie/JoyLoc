@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Joy Localisateur",
+  "description": "Une application qui suit en permanence votre position à l'aide de l'API Gemini et affiche le nom de la ville dans laquelle vous vous trouvez actuellement. La position se met à jour automatiquement lorsque vous vous déplacez.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
